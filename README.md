@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with [Code with harry youtube channel](https://youtu.be/eRTeF4MPnCg)
 
-- 👨‍💻 All of my projects are available at [#](#)
+- 👨‍💻 All of my projects are available at (https://github.com/Mimansa-Kumari?tab=projects)
 
 - 📝 I regularly write articles on [#](#)
 
